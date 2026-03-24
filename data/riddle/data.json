@@ -1,0 +1,685 @@
+   [{
+        "instruction": "什么门永远关不上？",
+        "input": "",
+        "output": "足球门"
+    },
+    {
+        "instruction": "小明晚上看文艺表演，为啥有一个演员总是背对观众？",
+        "input": "",
+        "output": "乐队指挥"
+    },
+    {
+        "instruction": "什么人一年只上一天班还不怕被解雇？",
+        "input": "",
+        "output": "圣诞老人"
+    },
+    {
+        "instruction": "什么人一年中只工作一天却永远不会被炒鱿鱼？",
+        "input": "",
+        "output": "圣诞老人"
+    },
+    {
+        "instruction": "什么书你不可能在书店里买到？",
+        "input": "",
+        "output": "秘书（再次提供，但注意题目应避免重复，这里仅为示例）"
+    },
+    {
+        "instruction": "什么东西有头无脚，有眼无眉，有生有死，有始无终？",
+        "input": "",
+        "output": "线"
+    },
+    {
+        "instruction": "什么蛋中看不中吃？",
+        "input": "",
+        "output": "脸蛋"
+    },
+    {
+        "instruction": "什么人最不怕冷？",
+        "input": "",
+        "output": "雪人"
+    },
+    {
+        "instruction": "什么东西嘴里没有舌头，却能唱歌？",
+        "input": "",
+        "output": "哨子"
+    },
+    {
+        "instruction": "什么东西有五个头，但人们不觉得它怪？",
+        "input": "",
+        "output": "手有五根手头，但人们不觉得它怪？答案是:手"
+    },
+    {
+        "instruction": "什么东西力气再大的人也扛不起？",
+        "input": "",
+        "output": "罪名（或责任，视语境而定）"
+    },
+    {  
+        "instruction": "什么动物最容易摔倒？",  
+        "input": "",  
+        "output": "狐狸因为狐狸狡猾=脚滑"  
+    },
+    {  
+        "instruction": "什么床不能睡？",  
+        "input": "",  
+        "output": "牙床"  
+    },
+    {  
+        "instruction": "什么酒不能喝？",  
+        "input": "",  
+        "output": "碘酒"  
+    },  
+    {  
+        "instruction": "什么车子没有轮？",  
+        "input": "",  
+        "output": "风车"  
+    },  
+    {  
+        "instruction": "什么书你不可能在书店里买到？",  
+        "input": "",  
+        "output": "遗书"  
+    },  
+    {  
+        "instruction": "什么东西越生气，它就越大？",  
+        "input": "",  
+        "output": "脾气"  
+    },   
+    {  
+        "instruction": "什么花飘着开，什么花走着开，什么花空中开？",  
+        "input": "",  
+        "output": "雪花、浪花、礼花"  
+    },  
+    {  
+        "instruction": "什么房子失了火却不见有人跑出来？",  
+        "input": "",  
+        "output": "太平间"  
+    },  
+    {  
+        "instruction": "什么东西嘴里没有舌头？",  
+        "input": "",  
+        "output": "茶壶嘴、瓶口（除壶嘴外的新答案）"  
+    },  
+    {  
+        "instruction": "什么瓜不能吃？",  
+        "input": "",  
+        "output": "傻瓜、笨瓜、呆瓜（非食物类瓜）"  
+    }, 
+    {  
+        "instruction": "什么东西越热越爱出来？",  
+        "input": "",  
+        "output": "汗"  
+    },  
+    {  
+        "instruction": "什么东西别人请你吃，但你自己还是要付钱？",  
+        "input": "",  
+        "output": "官司"  
+    },  
+    {  
+        "instruction": "什么帽不能戴？",  
+        "input": "",  
+        "output": "螺帽"  
+    },  
+    {  
+        "instruction": "什么布剪不断？",  
+        "input": "",  
+        "output": "瀑布"  
+    },  
+    {  
+        "instruction": "什么水不能喝？",  
+        "input": "",  
+        "output": "薪水、王水（一种强腐蚀性液体）"  
+    },  
+    {  
+        "instruction": "什么车子没有轮子？",  
+        "input": "",  
+        "output": "滑板车（在静止或未组装时）"  
+    },  
+    {  
+        "instruction": "什么书你不可能在书店里买到？",  
+        "input": "",  
+        "output": "秘书、天书、遗书"  
+    },    
+    {  
+        "instruction": "什么东西会说话嘴里却没有舌头？",  
+        "input": "",  
+        "output": "喇叭、扩音器"  
+    },  
+    {  
+        "instruction": "什么东西天气越热，它爬得越高？",  
+        "input": "",  
+        "output": "温度计、温度计上的红线（或水银柱）"  
+    }, 
+    {  
+        "instruction": "什么东西力气再大的人也扛不起？",  
+        "input": "",  
+        "output": "罪名、责任、名誉（抽象概念）"  
+    },  
+    {  
+        "instruction": "什么花盛开时人看不见？",  
+        "input": "",  
+        "output": "心花, 比如心花怒放"  
+    },
+    {  
+        "instruction": "什么海最大？",  
+        "input": "",  
+        "output": "学海, 因为学海无边"  
+    }, 
+    {  
+        "instruction": "什么床不能睡？",  
+        "input": "",  
+        "output": "电床（治疗设备）"  
+    },  
+    {  
+        "instruction": "什么帽不能戴？",  
+        "input": "",  
+        "output": "螺丝帽（非穿戴物）"  
+    },  
+    {  
+        "instruction": "什么海不产鱼？",  
+        "input": "",  
+        "output": "脑海、辞海"  
+    },  
+    {  
+        "instruction": "什么蛋打不烂，煮不熟，更不能吃？",  
+        "input": "",  
+        "output": "原子弹"  
+    }, 
+    {  
+        "instruction": "什么花最没有劲？",  
+        "input": "",  
+        "output": "茉莉花（好一朵美丽（没力）的茉莉花）"  
+    },  
+    {  
+        "instruction": "什么车子没有轮子却能在路上跑？",  
+        "input": "",  
+        "output": "磁悬浮列车（非传统轮子驱动）"  
+    },
+    {  
+        "instruction": "什么书你不可能在书店里买到?",  
+        "input": "",  
+        "output": "秘书"  
+    },
+    {  
+        "instruction": "什么门永远关不上？",  
+        "input": "",  
+        "output": "足球门"  
+    },  
+    {  
+        "instruction": "什么车子寸步难行？",  
+        "input": "",  
+        "output": "风车"  
+    },
+    {  
+        "instruction": "什么酒不能喝？",  
+        "input": "",  
+        "output": "碘酒"  
+    },  
+    {  
+        "instruction": "什么蛋中看不中吃？",  
+        "input": "",  
+        "output": "脸蛋"  
+    }, 
+    {  
+        "instruction": "什么路最窄？",  
+        "input": "",  
+        "output": "冤家路窄"  
+    },  
+    {  
+        "instruction": "什么东西嘴里没有舌头？",  
+        "input": "",  
+        "output": "壶嘴、领带夹"  
+    },  
+    {  
+        "instruction": "什么书你不可能在书店里买到？",  
+        "input": "",  
+        "output": "秘书、遗书、天书"  
+    },  
+    {  
+        "instruction": "什么水永远用不完？",  
+        "input": "",  
+        "output": "泪水、口水、自来水"  
+    },  
+    {  
+        "instruction": "什么蛋打不烂，煮不熟，更不能吃？",  
+        "input": "",  
+        "output": "考试得的零蛋、笨蛋、傻蛋、坏蛋"  
+    },  
+    {  
+        "instruction": "什么车子寸步难行？",  
+        "input": "",  
+        "output": "风车、水车、自行车"  
+    },  
+    {  
+        "instruction": "什么比赛，赢的得不到奖品，输的却有奖品？",  
+        "input": "",  
+        "output": "划拳喝酒"  
+    },  
+    {  
+        "instruction": "什么有头无尾？",  
+        "input": "",  
+        "output": "砖头、枕头、石头"  
+    },  
+    {  
+        "instruction": "什么有尾无头？",  
+        "input": "",  
+        "output": "蝎子、蝌蚪、蝎子"  
+    },   
+    {  
+        "instruction": "什么有腿不会跑？",  
+        "input": "",  
+        "output": "桌子、椅子、板凳"  
+    },  
+    {  
+        "instruction": "什么人心肠最不好？",  
+        "input": "",  
+        "output": "地胃肠炎的人"  
+    },  
+    {  
+        "instruction": "什么蛋打不烂，煮不熟，更不能吃？",  
+        "input": "",  
+        "output": "考试得的零蛋"  
+    },  
+    {  
+        "instruction": "什么路最窄？",  
+        "input": "",  
+        "output": "冤家路窄"  
+    },    
+    {  
+        "instruction": "什么酒不能喝？",  
+        "input": "",  
+        "output": "碘酒"  
+    },  
+    {  
+        "instruction": "什么最会弄虚做假？",  
+        "input": "",  
+        "output": "魔术师"  
+    },  
+    {  
+        "instruction": "什么脚最长？",  
+        "input": "",  
+        "output": "一步登天"  
+    },  
+    {  
+        "instruction": "什么最长？",  
+        "input": "",  
+        "output": "时间"  
+    },  
+    {
+        "instruction": "为什么高考满分750还能考上985?",  
+        "input": "",  
+        "output": "高考满分通常为750分（这主要取决于具体的考试模式和科目设置，例如在某些地区的3+3或3+1+2高考模式下），而“985”则是指中国教育部在1998年提出的“985工程”，旨在重点支持国内一批优秀的高等学校，使其成为世界一流的大学。当说“考上985”时，实际上是指考生被纳入“985工程”高校录取名单中。\n关于“高考满分750还能考上985”的表述，实际上存在一些误解。首先，高考满分750分是指考生在所有科目中都取得了最高分，这是一个相对罕见且极高的成就。而考上985高校，并不意味着考生必须达到高考满分，而是需要考生在高考中取得足够高的分数，以满足985高校的录取标准。"
+    },
+    {  
+        "instruction": "什么瓜不能吃?",  
+        "input": "",  
+        "output": "傻瓜"  
+    },  
+    {  
+        "instruction": "盆里有6只馒头，6个小朋友每人分到1只，但盆里还留着1只，为什么?",  
+        "input": "",  
+        "output": "最后一个小朋友把盆子一起拿走了"  
+    },  
+    {  
+        "instruction": "你能以最快速度，把冰变成水吗?",  
+        "input": "",  
+        "output": "把“冰”字去掉两点，就成了“水”"  
+    },  
+    {  
+        "instruction": "冬天，宝宝怕冷，到了屋里也不肯脱帽。可是他见了一个人乖乖地脱下帽，那人是谁?",  
+        "input": "",  
+        "output": "理发师"  
+    },  
+    {  
+        "instruction": "老王一天要刮四五十次脸，脸上却仍有胡子。这是什么原因?",  
+        "input": "",  
+        "output": "老王是个理发师"  
+    },  
+    {  
+        "instruction": "有一个字，人人见了都会念错。这是什么字?",  
+        "input": "",  
+        "output": "这是“错”字"  
+    },  
+    {  
+        "instruction": "小华在家里，和谁长得最像?",  
+        "input": "",  
+        "output": "镜中的小华"  
+    },  
+    {  
+        "instruction": "鸡蛋壳有什么用处?",  
+        "input": "",  
+        "output": "用来包蛋清和蛋黄"  
+    },  
+    {  
+        "instruction": "不必花力气打的东西是什么?",  
+        "input": "",  
+        "output": "打哈欠"  
+    },  
+    {  
+        "instruction": "你能做，我能做，大家都做;一个人能做，两个人不能一起做。这是做什么?",  
+        "input": "",  
+        "output": "做梦"  
+    },  
+    {  
+        "instruction": "什么事每人每天都必须认真的做?",  
+        "input": "",  
+        "output": "睡觉"  
+    },  
+    {  
+        "instruction": "什么人始终不敢洗澡?",  
+        "input": "",  
+        "output": "泥人"  
+    },  
+    {  
+        "instruction": "小明从不念书却得了模范生,为什么?",  
+        "input": "",  
+        "output": "小明是聋哑学生"  
+    },  
+    {  
+        "instruction": "什么车子寸步难行?",  
+        "input": "",  
+        "output": "风车"  
+    },  
+    {  
+        "instruction": "哪一个月有二十八天?",  
+        "input": "",  
+        "output": "每个月都有28天"  
+    },  
+    {  
+        "instruction": "你知道上课睡觉有什么不好吗?",  
+        "input": "",  
+        "output": "不如床上舒服嘛"  
+    },  
+    {  
+        "instruction": "什么酒不能喝?",  
+        "input": "",  
+        "output": "碘酒"  
+    },  
+    {  
+        "instruction": "什么蛋打不烂，煮不熟，更不能吃?",  
+        "input": "",  
+        "output": "考试得的零蛋\"0\""  
+    },  
+    {  
+        "instruction": "打什么东西,不必花力气?",  
+        "input": "",  
+        "output": "打瞌睡"  
+    },  
+    {  
+        "instruction": "火车由北京到上海需要6小时,行使3小时后,火车该在什么地方?",  
+        "input": "",  
+        "output": "在车轨上"  
+    },  
+    {  
+        "instruction": "一个离过五十次婚的女人，应该怎么形容她?",  
+        "input": "",  
+        "output": "前公尽弃"  
+    },  
+    {  
+        "instruction": "三个孩子吃三个饼要用3分钟，九十个孩子九十个饼要用多少时间?",  
+        "input": "",  
+        "output": "也是三分钟，九十个孩子同时吃"  
+    },  
+    {  
+        "instruction": "什么样的轮子只转不走?",  
+        "input": "",  
+        "output": "风车的轮子"  
+    },  
+    {  
+        "instruction": "地球上什么东西每天要走的距离最远?",  
+        "input": "",  
+        "output": "地球"  
+    },  
+    {  
+        "instruction": "中国人最早的姓氏是什么?",  
+        "input": "",  
+        "output": "姓善"  
+    },  
+    {  
+        "instruction": "铁放到外面要生锈，那金子呢?",  
+        "input": "",  
+        "output": "会被偷走"  
+    },  
+    {  
+        "instruction": "在什么时候1+2不等于3?",  
+        "input": "",  
+        "output": "算错了的时候"  
+    },  
+    {  
+        "instruction": "两个人住在一个胡同里，只隔几步路，他们同在一个工厂上班，但每天出门上班，却总一个向左，一个向右，为什么?",  
+        "input": "",  
+        "output": "他们住对门"  
+    },  
+    {  
+        "instruction": "三个孩子吃三个饼要用3分钟，九十个孩子九十个饼要用多少时间?",  
+        "input": "",  
+        "output": "也是三分钟，九十个孩子同时吃"  
+    },  
+    {  
+        "instruction": "什么时候最好还是要高高举起你的双手好些?",  
+        "input": "",  
+        "output": "当有人用枪指着你的头的时候"  
+    },  
+    {  
+        "instruction": "什么最长？",  
+        "input": "",  
+        "output": "日子"  
+    },
+        {  
+        "instruction": "为什么新买的袜子有两个洞？",  
+        "input": "",  
+        "output": "两个洞才能穿进去两只脚"  
+    },  
+    {  
+        "instruction": "有两个人掉到陷阱里了，死的人叫死人，活人叫什么？",  
+        "input": "",  
+        "output": "叫“救命”"  
+    },  
+    {  
+        "instruction": "做鸡蛋面的老板是谁？",  
+        "input": "",  
+        "output": "西红柿（西红柿炒鸡蛋）"  
+    },  
+    {  
+        "instruction": "最不听话的人是谁？",  
+        "input": "",  
+        "output": "聋子"  
+    },  
+    {  
+        "instruction": "一只乌龟掉进山崖里（猜一花名）？",  
+        "input": "",  
+        "output": "玫瑰（没龟）"  
+    },  
+    {  
+        "instruction": "又一只乌龟掉进山崖（猜一花名）？",  
+        "input": "",  
+        "output": "野玫瑰（也没龟）"  
+    },  
+    {  
+        "instruction": "小白加小白等于什么？",  
+        "input": "",  
+        "output": "小白兔（two）"  
+    },  
+    {  
+        "instruction": "什么蛋中看不中吃？",  
+        "input": "",  
+        "output": "脸蛋"  
+    },  
+    {  
+        "instruction": "哪种水果视力特别差？",  
+        "input": "",  
+        "output": "芒果"  
+    },  
+    {  
+        "instruction": "麒麟飞到北极会变成什么？",  
+        "input": "",  
+        "output": "冰淇淋"  
+    },  
+    {  
+        "instruction": "离婚的主要起因是什么？",  
+        "input": "",  
+        "output": "结婚"  
+    },  
+    {  
+        "instruction": "别人请你吃什么需要你自己花钱？",  
+        "input": "",  
+        "output": "吃官司"  
+    },  
+    {  
+        "instruction": "大象的左耳朵像什么？",  
+        "input": "",  
+        "output": "右耳朵"  
+    },  
+    {  
+        "instruction": "什么东西力气再大也不愿意抗？",  
+        "input": "",  
+        "output": "罪名"  
+    },  
+    {  
+        "instruction": "什么事你明明没做却要受罚？",  
+        "input": "",  
+        "output": "作业"  
+    },  
+    {  
+        "instruction": "什么东西只能加不能减？",  
+        "input": "",  
+        "output": "年龄"  
+    },  
+    {  
+        "instruction": "什么布不能做衣服？",  
+        "input": "",  
+        "output": "瀑布"  
+    },  
+    {  
+        "instruction": "武松到底犯了什么罪被抓起来？",  
+        "input": "",  
+        "output": "打死老虎"  
+    },  
+    {  
+        "instruction": "你知道现代科学家从哪里出生的吗？",  
+        "input": "",  
+        "output": "妈妈的肚子里"  
+    },  
+    {  
+        "instruction": "9月28是孔子诞辰,那么10月28日是什么日子？",  
+        "input": "",  
+        "output": "孔子满月"  
+    },  
+    {  
+        "instruction": "猪圈里的猪跑出来怎么办？",  
+        "input": "",  
+        "output": "王力宏（往里哄）"  
+    },  
+    {  
+        "instruction": "一头牛面北朝南，然后转了一圈，牛尾巴朝哪里？",  
+        "input": "",  
+        "output": "朝地下"  
+    },  
+    {  
+        "instruction": "这两块冰下有鲤鱼（四字成语）？",  
+        "input": "",  
+        "output": "彬彬有礼（冰冰有鲤）"  
+    },  
+    {  
+        "instruction": "要形容一个丑女长得漂亮，说什么话她最高兴？",  
+        "input": "",  
+        "output": "谎话"  
+    },  
+    {  
+        "instruction": "耶稣是哪国人？",  
+        "input": "",  
+        "output": "天国"  
+    },  
+    {  
+        "instruction": "茉莉花、太阳花、玫瑰花哪一朵最漂亮？",  
+        "input": "",  
+        "output": "茉莉花（好一朵美丽的茉莉花）"  
+    },  
+    {  
+        "instruction": "有人说女人像一本书，那么胖女人像什么书？",  
+        "input": "",  
+        "output": "合订本"  
+    },  
+    {  
+        "instruction": "什么船不用水就可以航行？",  
+        "input": "",  
+        "output": "宇宙飞船"  
+    },  
+    {  
+        "instruction": "爸爸什么时候像个孩子？",  
+        "input": "",  
+        "output": "跟爷爷一起的时候"  
+    },  
+    {  
+        "instruction": "时钟敲了十三下该怎么做？",  
+        "input": "",  
+        "output": "修理它"  
+    },  
+    {  
+        "instruction": "怎么让猪不要飞走？",  
+        "input": "",  
+        "output": "插上翅膀（插翅难飞）"  
+    },  
+    {  
+        "instruction": "世界上谁的肚子最大？",  
+        "input": "",  
+        "output": "宰相（宰相肚里能撑船）"  
+    },  
+    {  
+        "instruction": "什么动物的屁股不能碰？",  
+        "input": "",  
+        "output": "老虎（老虎的屁股摸不得）"  
+    },  
+    {  
+        "instruction": "什么鬼走路东倒西歪？",  
+        "input": "",  
+        "output": "酒鬼"  
+    },  
+    {  
+        "instruction": "猪蹄、猪耳朵，猪肉都很好吃，那除了猪除了吃还有什么用处？",  
+        "input": "",  
+        "output": "还可以用来骂人"  
+    },  
+    {  
+        "instruction": "阿拉丁爸爸的哥哥是谁？",  
+        "input": "",  
+        "output": "阿拉伯"  
+    },  
+    {  
+        "instruction": "黄豆年轻的时候叫什么？",  
+        "input": "",  
+        "output": "青春痘"  
+    },  
+    {  
+        "instruction": "在所有植物中，什么植物最老实？",  
+        "input": "",  
+        "output": "芭蕉（老实巴交）"  
+    },  
+    {  
+        "instruction": "什么时候别人敲的你门不让进？",  
+        "input": "",  
+        "output": "厕所"  
+    },  
+    {  
+        "instruction": "失败是成功之母，那成功为失败的什么？",  
+        "input": "",  
+        "output": "反义词"  
+    },  
+    {  
+        "instruction": "日月潭中间是什么？",  
+        "input": "",  
+        "output": "月"  
+    },  
+    {  
+        "instruction": "拿什么东西不用手？",  
+        "input": "",  
+        "output": "拿主意"  
+    },  
+    {  
+        "instruction": "时钟什么时候不会走？",  
+        "input": "",  
+        "output": "时钟本来就不会走"  
+    },  
+    {  
+        "instruction": "想从北京去巴黎需要多少钱？",  
+        "input": "",  
+        "output": "“想”不需要钱"  
+    }]
